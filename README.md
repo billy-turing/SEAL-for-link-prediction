@@ -46,3 +46,7 @@ you can check out the other options available to use `python main.py --help`
 |#Edges        |2126   |2148   |6594| 11693 | 16714 | 6258 |
 |Average Degree|12.8072|14.4646|2.6691|9.8467| 27.3553| 2.4922 |
 |SEAL(**auc**)     |**0.9538**|**0.8979**|**0.8889**|**0.9714**|**0.9444**|**0.9412**|
+
+## 5 - Todo
+
+The repositroy and all dependencies neeed to be udpated.
